@@ -21,6 +21,7 @@ git clone https://github.com/WideDevs1/<repo-name>.git
 ## 📺 Watch the Tutorials
 
 ▶ YouTube Channel: [youtube.com/WideDevs](https://youtube.com/WideDevs)
+
 Follow for weekly programming tips, coding challenges, and tech insights.
 
 ## 🤝 Connect with US
@@ -28,3 +29,7 @@ Follow for weekly programming tips, coding challenges, and tech insights.
 Facebook: [facebook.com/WideDevs](https://facebook.com/widedevs)
 
 GitHub: You’re here 😉
+
+---
+
+> 💡 Code is better when shared. Learn, build, and inspire with Wide Devs.
