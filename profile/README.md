@@ -1,11 +1,11 @@
-# 🌐 Wide Devs – Code from My YouTube Tutorials
+# 🌐 Wide Devs – Code from Our YouTube Tutorials
 
 ![Auto Assign](https://github.com/WideDevs1/demo-repository/actions/workflows/auto-assign.yml/badge.svg)
 
 ![Proof HTML](https://github.com/WideDevs1/demo-repository/actions/workflows/proof-html.yml/badge.svg)
 
 Welcome to the official **Wide Devs** GitHub!  
-Here you’ll find all the source code and examples from my programming tutorials, tech tips, and project walkthroughs on **[YouTube](https://youtube.com/@WideDevs)**.  
+Here you’ll find all the source code and examples from our programming tutorials, tech tips, and project walkthroughs on **[YouTube](https://youtube.com/@WideDevs)**.  
 
 ## 📂 What You’ll Find
 - Source code from YouTube tutorials
